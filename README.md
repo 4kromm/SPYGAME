@@ -48,7 +48,7 @@ The core logic lives in the **`GameManager`** script under `ServerScriptService`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Roblox Studio** — engine & editor
 - **Lua / Luau** — server-side scripting
